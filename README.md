@@ -12,7 +12,7 @@ I believe the best way to learn is to teach — so I write everything down as if
 
 - 📍 Based in Lagos, Nigeria
 - 🎯 Currently pursuing: **CompTIA A+** certification
-- 💼 Targeting: IT Support Technician roles
+- 💼 Targeting: IT Support Technician roles, IT Hepldesk Roles
 - 🛠️ Background in front-end development (HTML, CSS, JavaScript)
 
 ---
