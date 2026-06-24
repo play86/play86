@@ -34,8 +34,8 @@ I believe the best way to learn is to teach — so I write everything down as if
 - [x] OSI Model & network troubleshooting logic
 - [x] Networking hardware (fiber connectors, RJ45, wiring standards)
 - [x] Remote desktop tools (AnyDesk, RDP)
-- [ ] CompTIA A+ Core 1 (220-1101) exam
-- [ ] CompTIA A+ Core 2 (220-1102) exam
+- [X] Internet communication Protocols (VoIPs, IPs for Emails)
+- [ ] DNS, NTP & DHCP
 - [X] Active Directory & Windows administration
 - [ ] Help desk ticketing systems
 
