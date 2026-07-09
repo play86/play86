@@ -38,22 +38,23 @@ I believe the best way to learn is to teach — so I write everything down as if
 - [ ] DNS, NTP & DHCP
 - [X] Active Directory & Windows administration
 - [ ] Help desk ticketing systems
+- [ ] Network Design: Topologies, robust Network design and Documentation
 
 ---
 
 ## 🧠 How I Study
 
 - Write notes in my own words (no copy-paste)
-- Create diagrams and visual summaries (especially with AI whiteboards)
+- Create diagrams and visual summaries sometimes (AI whiteboards)
 - Practice with past exam questions
-- Apply concepts to real-world scenarios where possible
+- Apply concepts to real-world scenarios using simulators online
 
 ---
 
 ## 📬 Let's Connect
 
 - 💼 www.linkedin.com/in/minyon57
-- 
+- ✉️ dominionokoli2018@gmail.com
 
 
 ---
