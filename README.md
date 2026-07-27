@@ -13,7 +13,7 @@ I believe the best way to learn is to teach — so I write everything down as if
 - 📍 Based in Lagos, Nigeria
 - 🎯 Currently pursuing: **CompTIA A+** certification
 - 💼 Targeting: IT Support Technician roles, IT Hepldesk Roles
-- 🛠️ Background in front-end development (HTML, CSS, JavaScript)
+- 🛠️ Background in Engineering & Code (Python,JavaScript)
 
 ---
 
@@ -25,14 +25,14 @@ I believe the best way to learn is to teach — so I write everything down as if
 | `networking/` | OSI model, subnetting, VLANs, cable standards, hardware |
 | `tools/` | Notes on remote support tools like AnyDesk, CLI, RDP, and more |
 | `troubleshooting/` | Real and practice troubleshooting scenarios |
-| `til/` | Today I Learned — quick daily notes |
+| `til/` | Q&As and Study links with professor Messer  |
 
 ---
 
 ## 🗺️ Learning Roadmap
 
 - [x] OSI Model & network troubleshooting logic
-- [x] Networking hardware (fiber connectors, RJ45, wiring standards)
+- [x] Networking hardware (connectors, wiring standards e.t.c)
 - [x] Remote desktop tools (AnyDesk, RDP)
 - [X] Internet communication Protocols (VoIPs, IPs for Emails)
 - [ ] DNS, NTP & DHCP
@@ -44,7 +44,7 @@ I believe the best way to learn is to teach — so I write everything down as if
 
 ## 🧠 How I Study
 
-- Write notes in my own words (no copy-paste)
+- Write notes  (no copy-paste)
 - Create diagrams and visual summaries sometimes (AI whiteboards)
 - Practice with past exam questions
 - Apply concepts to real-world scenarios using simulators online
