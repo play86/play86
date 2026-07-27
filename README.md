@@ -21,10 +21,9 @@ I believe the best way to learn is to teach — so I write everything down as if
 
 | Folder | What You'll Find |
 |---|---|
-| `comptia-a+/` | Study notes aligned to Core 1 (220-1101) & Core 2 (220-1102) |
-| `networking/` | OSI model, subnetting, VLANs, cable standards, hardware |
-| `tools/` | Notes on remote support tools like AnyDesk, CLI, RDP, and more |
-| `troubleshooting/` | Real and practice troubleshooting scenarios |
+| `StudyWithIBM/` | Study notes from IBMSkillbuild |
+| `THM-Labs/` | Practice ADs, WinServers, Sys-Setting... via browser RDPing |
+| `Servicedesk-Simulator/` | Real and practice troubleshooting scenarios |
 | `til/` | Q&As and Study links with professor Messer  |
 
 ---
