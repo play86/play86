@@ -2,7 +2,7 @@
 
 # 🖥️ IT Support Learning Journey
 
-Hi, I'm **Dominion** — an IT Support enthusiast documenting my hands-on learning, notes, and progress as I build practical skills in the field.
+Hi, I'm **Dominion** — an IT Support enthusiast documenting my hands-on learning exprerience, notes, and progress as I build practical skills in the field.
 
 I believe the best way to learn is to teach — so I write everything down as if explaining it to someone else. Feel free to explore, borrow ideas, or follow along.
 
@@ -10,42 +10,42 @@ I believe the best way to learn is to teach — so I write everything down as if
 
 ## 👨‍💻 About Me
 
-- 📍 Based in Lagos, Nigeria
+- 📍 Lagos, Nigeria
 - 🎯 Currently pursuing: **CompTIA A+** certification
-- 💼 Targeting: IT Support Technician roles, IT Hepldesk Roles
-- 🛠️ Background in Engineering & Code (Python,JavaScript)
+- 💼 Targeting: IT Support Technician & Hepldesk Roles
+- 🛠️ Background: Engineering & Code (Python,JavaScript)
 
 ---
 
-## 📚 What's in This Repo
+## 📚 What's in This REPO
 
-| Folder | What You'll Find |
-|---|---|
-| `StudyWithIBM/` | Study notes from IBMSkillbuild |
-| `THM-Labs/` | Practice ADs, WinServers, Sys-Setting... via browser RDPing |
-| `Servicedesk-Simulator/` | Real and practice troubleshooting scenarios |
-| `til/` | Q&As and Study links with professor Messer  |
+| Folder             | What You'll Find                                               |
+| ------------------ | -------------------------------------------------------------- |
+| [`StudyWithIBM/`](https://github.com/play86/StudywithIBM)      | Study notes from IBMSkillbuild  |
+| [`THM-labs/`](https://github.com/play86/THM-labRoom)      | Practice ADs, WinServers, Sys-Setting... via **VMWare-HyperV**        |
+| [`Servicedesk-simulator`](https://github.com/play86/desk-sim) | Real and practice troubleshooting scenarios                    |
+| [`til/`](https://github.com/play86/Prof-MessorQnA)             | Q&As and Study links with professor Messer                            |
 
 ---
 
 ## 🗺️ Learning Roadmap
 
 - [x] OSI Model & network troubleshooting logic
-- [x] Networking hardware (connectors, wiring standards e.t.c)
-- [x] Remote desktop tools (AnyDesk, RDP)
-- [X] Internet communication Protocols (VoIPs, IPs for Emails)
+- [x] Networking hardware (connectors, hardware, wiring-standards...)
+- [x] Remote desktop tools (AnyDesk, RDP...)
+- [X] Protocols (VoIPs, HTTPS, FTP...)
 - [ ] DNS, NTP & DHCP
-- [X] Active Directory & Windows administration
+- [x] Active Directory & Windows administration
 - [ ] Help desk ticketing systems
-- [ ] Network Design: Topologies, robust Network design and Documentation
+- [ ] Topologies, robust Network design and Documentation
 
 ---
 
 ## 🧠 How I Study
 
-- Write notes  (no copy-paste)
-- Create diagrams and visual summaries sometimes (AI whiteboards)
-- Practice with past exam questions
+- Write notes  (no copyies)
+- Diagrams and visual summaries sometimes (AI whiteboards)
+- Practice past exam questions
 - Apply concepts to real-world scenarios using simulators online
 
 ---
