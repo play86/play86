@@ -52,7 +52,7 @@ I believe the best way to learn is to teach — so I write everything down as if
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/minyon57) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/minyon57) 
 - 📑 [Resumé](https://drive.google.com/file/d/176RASwxvIgiQ9Yxr4ChBfEA4NueF1lRj/view?usp=sharing)
 
 ---
