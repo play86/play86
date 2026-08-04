@@ -11,8 +11,8 @@ I believe the best way to learn is to teach — so I write everything down as if
 ## 👨‍💻 About Me
 
 - 📍 Lagos, Nigeria
-- 🎯 Currently pursuing: **CompTIA A+** certification
-- 💼 Targeting: IT Support Technician & Hepldesk Roles
+- 🎯 **CompTIA A+** 🔜
+- 💼 Targeting: Support Technician || Hepldesk
 - 🛠️ Background: Engineering & Code (Python,JavaScript)
 
 ---
