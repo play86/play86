@@ -52,9 +52,8 @@ I believe the best way to learn is to teach — so I write everything down as if
 
 ## 📬 Let's Connect
 
-- 💼 www.linkedin.com/in/minyon57
-- ✉️ dominionokoli2018@gmail.com
-
+- 💼 [LinkedIn](www.linkedin.com/in/minyon57) 
+- 📑 [Resumé](https://drive.google.com/file/d/176RASwxvIgiQ9Yxr4ChBfEA4NueF1lRj/view?usp=sharing)
 
 ---
 
