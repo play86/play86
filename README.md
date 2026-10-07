@@ -2,7 +2,7 @@
 
 # 🖥️ IT Support Learning Journey
 
-Hi, I'm **Dominion** — an IT Support enthusiast documenting my hands-on learning exprerience, notes, and progress as I build practical skills in the field.
+Hi, I'm **Dominion** — an IT Support professional in transition, documenting my hands-on learning experience, notes, and progress as I build practical skills in IT support and cloud security.
 
 I believe the best way to learn is to teach — so I write everything down as if explaining it to someone else. Feel free to explore, borrow ideas, or follow along.
 
@@ -11,9 +11,9 @@ I believe the best way to learn is to teach — so I write everything down as if
 ## 👨‍💻 About Me
 
 - 📍 Lagos, Nigeria
-- 🎯 **CompTIA A+** 🔜
-- 💼 Targeting: Support Technician || Hepldesk
-- 🛠️ Background: Engineering & Code (Python,JavaScript)
+- 🎯 **CompTIA A+** 🔜 (Network+ and Security+ planned)
+- 💼 Targeting: IT Support | Helpdesk | Junior Systems Administration
+- 🛠️ Background: Mechanical Engineering + front-end dev (Python, JavaScript) + hands-on cloud security labs (AWS, SIEM, WAF, IAM)
 
 ---
 
@@ -25,6 +25,18 @@ I believe the best way to learn is to teach — so I write everything down as if
 | [`THM-labs/`](https://github.com/play86/THM-labRoom)      | Practice ADs, WinServers, Sys-Setting... via **VMWare-HyperV**        |
 | [`Servicedesk-simulator`](https://github.com/play86/desk-sim) | Real and practice troubleshooting scenarios                    |
 | [`til/`](https://github.com/play86/Prof-MessorQnA)             | Q&As and Study links with professor Messer                            |
+| [`cloud-security-labs/`](https://github.com/play86) | AWS security labs: SIEM pipeline, IAM, WAF, attack-defend simulation |
+
+---
+
+## ☁️ Cloud Security Labs (New)
+
+Hands-on labs built on AWS, documented with full writeups and screenshots:
+
+- 🔍 **Web App Attack & Defend** — Deployed and exploited a web app, applied a hardening checklist
+- 📊 **SIEM Log Pipeline** — CloudWatch → Lambda → OpenSearch, detected simulated brute-force attacks
+- 🔐 **IAM Privilege Escalation Fix** — Found and remediated a misconfiguration using least-privilege
+- 🎯 **Full Attack Simulation** — Nmap/Metasploit recon, exploitation, honeypot, ModSecurity WAF mitigation, NIST/MITRE-mapped IR report
 
 ---
 
@@ -33,9 +45,11 @@ I believe the best way to learn is to teach — so I write everything down as if
 - [x] OSI Model & network troubleshooting logic
 - [x] Networking hardware (connectors, hardware, wiring-standards...)
 - [x] Remote desktop tools (AnyDesk, RDP...)
-- [X] Protocols (VoIPs, HTTPS, FTP...)
+- [x] Protocols (VoIPs, HTTPS, FTP...)
 - [ ] DNS, NTP & DHCP
 - [x] Active Directory & Windows administration
+- [x] Cloud fundamentals (AWS: EC2, IAM, CloudWatch, Lambda)
+- [x] Security monitoring & incident response basics
 - [ ] Help desk ticketing systems
 - [ ] Topologies, robust Network design and Documentation
 
@@ -43,10 +57,10 @@ I believe the best way to learn is to teach — so I write everything down as if
 
 ## 🧠 How I Study
 
-- Write notes  (no copyies)
+- Write notes (no copies)
 - Diagrams and visual summaries sometimes (AI whiteboards)
 - Practice past exam questions
-- Apply concepts to real-world scenarios using simulators online
+- Apply concepts to real-world scenarios using simulators and cloud labs
 
 ---
 
@@ -58,4 +72,3 @@ I believe the best way to learn is to teach — so I write everything down as if
 ---
 
 *This repo is a living document — updated regularly as I learn and grow.*
-
